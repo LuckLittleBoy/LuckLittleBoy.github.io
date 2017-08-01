@@ -30,6 +30,7 @@
 ## 技术文章
 
  - [设计模式中24个模式说明](http://www.cnblogs.com/java-meng/p/6666180.html)
+ - [基于CAS的SSO(单点登录)实例](http://www.cnblogs.com/java-meng/p/7269990.html)
 
 # 技能清单
 
